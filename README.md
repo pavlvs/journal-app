@@ -1,2 +1,2 @@
 # journal-app
-Ucemy Javascript from scratch course App 2
+Udemy Javascript from scratch course App 2
